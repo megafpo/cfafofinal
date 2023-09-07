@@ -1,0 +1,2 @@
+export const GET_ALERTS = "GET_ALERTS";
+export const SET_ALERT_UNREAD_TOTAL = "SET_ALERT_UNREAD_TOTAL";
